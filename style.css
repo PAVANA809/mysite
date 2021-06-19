@@ -8,11 +8,12 @@
     font-size: normal;
 }
 body{
-    padding-top: 50px;
+   padding-top: 50px;
    text-align: center;
    background-color: #E4F9F5;
    background-image: url(/images/wolf.jpg);
    background-repeat: no-repeat;
+   background-position: middle;
    background-size: cover;
    color: whitesmoke;
 }
