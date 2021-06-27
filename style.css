@@ -63,8 +63,23 @@ form{
     align-items: center;
 }
 input{
+    background-color: rgb(255, 255, 255);
     width: 300px;
     margin: 20px 0px;
+    padding: 15px;
+    border-radius: 7px;
+    font-size: 18px;
+}
+::placeholder{
+    color: rgb(0, 0, 0);
+    font-size: 13px;
+    opacity: 0.5;
+}
+.submit-button{
+    width: 100px;
+}
+.message{
+    padding-bottom:50px ;
 }
 
 
