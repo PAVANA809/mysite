@@ -38,3 +38,24 @@ p{
 }
 .last{
 }
+
+.contact-form{
+    margin-top: 20px;
+}
+.contact{
+    text-decoration: none;
+    font-family: "booter - zero zero";
+    font-size: 35px;
+    letter-spacing: 3px;
+    background-color: rgb(54, 0, 153);
+    color: white;
+    padding: 0px 20px;
+    border-radius: 7px;
+}
+.contact:hover{
+    background-color: rgb(247, 247, 247);
+    color: black;
+}
+
+
+
