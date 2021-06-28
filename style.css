@@ -14,6 +14,7 @@ body{
    background-image: url(/images/wolf.jpg);
    background-repeat: no-repeat;
    background-size: cover;
+   background-position: center center;
    color: whitesmoke;
 }
 h1{
@@ -35,6 +36,7 @@ p{
    
 }
 .middle{
+    height: 600px;
 }
 .last{
 }
@@ -48,10 +50,10 @@ p{
     font-size: 35px;
     letter-spacing: 3px;
     background-color: rgb(89, 211, 241);
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     padding: 0px 20px;
     border-radius: 7px;
-    opacity: 0.5;
+    opacity: 0.9;
 }
 .contact:hover{
     background-color: rgb(247, 247, 247);
