@@ -83,5 +83,23 @@ input{
     padding-bottom:50px ;
 }
 
+.footer-section{
+    padding: 20px 0px;
+}
+
+.footer-section a{
+    text-decoration: none;
+    color: white;
+    padding: 0px 20px;
+    font-size: 25px;
+    font-family:"booter - zero zero";
+}
+
+.footer-section a:hover{
+    background-color: white;
+    color: black;
+    opacity: 0.5;
+}
+
 
 
