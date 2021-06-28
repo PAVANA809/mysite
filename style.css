@@ -47,10 +47,11 @@ p{
     font-family: "booter - zero zero";
     font-size: 35px;
     letter-spacing: 3px;
-    background-color: rgb(54, 0, 153);
-    color: white;
+    background-color: rgb(89, 211, 241);
+    color: rgb(0, 0, 0);
     padding: 0px 20px;
     border-radius: 7px;
+    opacity: 0.5;
 }
 .contact:hover{
     background-color: rgb(247, 247, 247);
